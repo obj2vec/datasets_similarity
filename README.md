@@ -12,7 +12,7 @@ II. SimLex-999
 
 III. MEN
 
-Файлы: sim-eval-master.zip
+Файлы: MEN.zip
 
 IV. Mechanical Turk
 
