@@ -21,3 +21,10 @@ IV. Mechanical Turk
 V. HG-RUS
 
 Файлы: russe-evaluation-master.zip
+
+To Do:
+Добавить ссылки на происхождение датасетов
+
+Links:
+Efficient Estimation of Word Representations in Vector Space
+https://arxiv.org/abs/1301.3781
