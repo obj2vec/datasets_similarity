@@ -6,10 +6,10 @@
 
 I. WordSim353
 
-Файлы: wordsim353.zip и wordsim353.ipynb
-Язык: английский, есть мультиязычные адаптации (немецкий, итальянский, русский): https://leviants.com/multilingual-simlex999-and-wordsim353/
-Количество слов: 153 строки в формате <слово, слово, оценка>
-Теги: в репозитории без тегов, есть вариант с тегами http://alfonseca.org/eng/research/wordsim353.html
+- Файлы: wordsim353.zip и wordsim353.ipynb
+- Язык: английский, есть мультиязычные адаптации (немецкий, итальянский, русский): https://leviants.com/multilingual-simlex999-and-wordsim353/
+- Количество слов: 153 строки в формате <слово, слово, оценка>
+- Теги: в репозитории без тегов, есть вариант с тегами http://alfonseca.org/eng/research/wordsim353.html
 
 II. SimLex-999
 
