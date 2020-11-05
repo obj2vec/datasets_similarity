@@ -1,5 +1,7 @@
 # semantic_datasets
 
+В этом репозитории должны находиться попарные сходства. Всё остальное должно быть в других репозиториях.
+
 Данные, описанные в работе Анны Потапенко(http://www.frccsc.ru/sites/default/files/docs/ds/002-073-05/diss/22-potapenko/ds05_22-potapenko_main.pdf) — стр. 107:
 
 I. WordSim353
