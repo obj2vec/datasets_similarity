@@ -11,7 +11,6 @@ I. WordSim353
 - Язык: английский, есть мультиязычные адаптации (немецкий, итальянский, русский): https://leviants.com/multilingual-simlex999-and-wordsim353/
 - Количество слов: 153 строки в формате <слово, слово, оценка>, оценка в пределах [0, 10]
 - Теги: в репозитории без тегов, есть вариант с тегами http://alfonseca.org/eng/research/wordsim353.html (теги следующие: identical tokens, synonym, antonym, hyponym, hyperonym, sibling terms, first is part of the second one, second is part of the first one, topically related)
-
 - Дополнительно: первоначальным недостатком датасета была нечувствительность к разнице похожих (similarity) и связанных (relatedness) слов. Подробнее в ведении https://arxiv.org/pdf/1408.3456v1.pdf Есть вариант с делением на similar и related: http://alfonseca.org/eng/research/wordsim353.html (см. wordsim_relatedness_goldstandard.txt и wordsim_similarity_goldstandard.txt) 
 
 II. SimLex-999
