@@ -35,6 +35,8 @@ IV. Mechanical Turk
 
 Файлы: sim-eval-master.zip
 
+This procedure reuses 4 common openly available datasets MC (Miller and Charles, 91), RG (Rubenstein and Goodenougth, 1965), WordSim353 (Finkelstein et al., 2001), BLESS (Baroni and Lenci, 2011)
+
 V. HG-RUS
 
 Файлы: russe-evaluation-master.zip
