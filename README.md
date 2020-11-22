@@ -7,7 +7,7 @@
 I. WordSim353
 
 - Файлы: wordsim353.zip и wordsim353.ipynb
-- Ссылка: http://alfonseca.org/eng/research/wordsim353.html
+- Ссылка: оригинал (не работает) --- http://www.cs.technion.ac.il/~gabr/resources/data/wordsim353/ с делением на похожие и связанные --- http://alfonseca.org/eng/research/wordsim353.html
 - Язык: английский, есть мультиязычные адаптации (немецкий, итальянский, русский): https://leviants.com/multilingual-simlex999-and-wordsim353/
 - Количество слов: 153 строки в формате <слово, слово, оценка>, оценка в пределах [0, 10]
 - Теги: в репозитории без тегов, есть вариант с тегами http://alfonseca.org/eng/research/wordsim353.html (теги следующие: identical tokens, synonym, antonym, hyponym, hyperonym, sibling terms, first is part of the second one, second is part of the first one, topically related)
